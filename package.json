@@ -1,6 +1,6 @@
 {
   "name": "lab01_counter",
-  "homepage": "https://gdsc-ucsb.github.io/lab01_solution",
+  "homepage": "https://gdsc-ucsb.github.io/lab01_counter_react_solution",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
